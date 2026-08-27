@@ -3,7 +3,7 @@
 ### Frontend Developer
 Languages And Tools
 
-## Technologies & Languages
+## Languages
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
