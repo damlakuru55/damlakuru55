@@ -1,5 +1,6 @@
-Hi 👋
-Frontend Developer
+# Hi 👋, I'm Damla Kuru
+
+### Frontend Developer
 Languages And Tools
 
 ## Technologies & Languages
