@@ -16,3 +16,8 @@ I build interactive web interfaces and small JavaScript projects while improving
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
 </p>
+
+
+## Development Notes
+
+The profile page keeps project links readable and uses concise sections so visitors can navigate the portfolio quickly.
