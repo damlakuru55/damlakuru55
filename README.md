@@ -24,3 +24,5 @@ The profile page keeps project links readable and uses concise sections so visit
 ## Profile Review
 
 Project links and technology sections should remain concise, readable, and easy to scan as the portfolio grows.
+
+<!-- portfolio progress 01 -->
