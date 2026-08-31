@@ -1,9 +1,10 @@
 # Hi 👋, I'm Damla Kuru
 
 ### Frontend Developer
-Languages And Tools
 
-## Languages
+I build interactive web interfaces and small JavaScript projects while improving my frontend development skills.
+
+## Languages And Tools
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
@@ -15,3 +16,15 @@ Languages And Tools
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
 </p>
+
+## Focus
+
+- Frontend development
+- Responsive interfaces
+- JavaScript applications
+- UI interaction
+- Accessible web experiences
+
+## Projects
+
+I use GitHub to document and improve practical frontend projects, from small utilities to larger interactive applications.
