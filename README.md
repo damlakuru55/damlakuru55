@@ -16,15 +16,3 @@ I build interactive web interfaces and small JavaScript projects while improving
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
 </p>
-
-## Focus
-
-- Frontend development
-- Responsive interfaces
-- JavaScript applications
-- UI interaction
-- Accessible web experiences
-
-## Projects
-
-I use GitHub to document and improve practical frontend projects, from small utilities to larger interactive applications.
