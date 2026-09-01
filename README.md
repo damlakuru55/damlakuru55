@@ -2,18 +2,17 @@
 
 <h3 align="center">Frontend Developer</h3>
 
-• You can contact me at damlamkuru55@gmail.com
+• 📫 How to reach me **[your-email@example.com](mailto:your-email@example.com)**
 
 ### Connect with me:
 
 <p align="left">
-<a href="](https://www.linkedin.com/in/damla-kuru-587b43432/)" target="_blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/damla-kuru-587b43432/" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
+  </a>
 </p>
-</a>
-</p>
-## Languages and Tools:
+
+### Languages and Tools:
 
 <p align="left">
   <a href="https://firebase.google.com/" target="_blank">
