@@ -1,5 +1,5 @@
 # Hi 👋, I'm Damla Kuru
-# Frontend Developer
+## Frontend Developer
 ✉️ You can contact me at murtazaa19053@gmail.com
          
 ## Languages And Tools
