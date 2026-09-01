@@ -1,9 +1,6 @@
 # Hi 👋, I'm Damla Kuru
-
-### Frontend Developer
-
-I build interactive web interfaces and small JavaScript projects while improving my frontend development skills.
-
+         Frontend Developer
+         
 ## Languages And Tools
 
 <p>
