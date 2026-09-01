@@ -16,17 +16,29 @@
 
 ### Languages and Tools:
 
-### Languages and Tools:
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" />
-  <img src="https://skillicons.dev/icons?i=js" width="45" height="45" />
-  <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" />
-  <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" />
-  <img src="https://skillicons.dev/icons?i=react" width="45" height="45" />
-  <img src="https://skillicons.dev/icons?i=reactnative" width="45" height="45" />
-  <img src="https://skillicons.dev/icons?i=redux" width="45" height="45" />
-  <img src="https://skillicons.dev/icons?i=ts" width="45" height="45" />
-</p>
-</a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" width="45" height="45" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" />
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" width="45" height="45" />
+  </a>
+  <a href="https://reactnative.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" width="45" height="45" />
+  </a>
+  <a href="https://redux.js.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=redux" width="45" height="45" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ts" width="45" height="45" />
+  </a>
 </p>
