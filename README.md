@@ -7,7 +7,7 @@
 ### Connect with me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/damla-kuru-355a74426/" target="_blank">
+<a href="](https://www.linkedin.com/in/damla-kuru-587b43432/)" target="_blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
 </a>
 </p>
