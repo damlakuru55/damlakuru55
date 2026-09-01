@@ -4,13 +4,13 @@
 
 ---
 
-- 📫 You can contact me at **GitHub**
-
 ### Connect with me:
 
 <p align="left">
-<a href="https://github.com/damlakuru55" target="_blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" width="40" />
+<a href="https://www.linkedin.com/in/damla-kuru-355a74426/" target="_blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
+</a>
+</p>
 </a>
 </p>
 
