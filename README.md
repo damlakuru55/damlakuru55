@@ -2,7 +2,7 @@
 
 <h3 align="center">Frontend Developer</h3>
 
-• You can contact me at murtazaa19053@gmail.com
+• You can contact me atdamlamkuru55@gmail.com
 
 ### Connect with me:
 
